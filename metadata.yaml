@@ -1,0 +1,28 @@
+_repo: The-Outdoor-Chums-in-the-ForestLaying-the-Ghost-of-Oak-Ridge_41982
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, Quincy
+    alias: Allen, Captain Quincy
+    gutenberg_agent_id: '3424'
+    url: http://www.gutenberg.org/2009/agents/3424
+description: ''
+gutenberg_issued: '2013-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+title: The Outdoor Chums in the Forest; Or, Laying the Ghost of Oak Ridge
+url: http://www.gutenberg.org/ebooks/41982
