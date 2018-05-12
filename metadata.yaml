@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '3424'
     url: http://www.gutenberg.org/2009/agents/3424
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41982#The-Outdoor-Chums-in-the-ForestLaying-the-Ghost-of-Oak-Ridge
 gutenberg_issued: '2013-02-03'
 gutenberg_type: Text
 identifiers:
